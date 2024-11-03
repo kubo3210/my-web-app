@@ -1,7 +1,3 @@
 pandas==2.2.3
 plotly==5.24.1
-<<<<<<< HEAD
 streamlit==1.39.0
-=======
-streamlit==1.39.0
->>>>>>> e9b5b8d211b3b81efee5ab31660add54b4669b38
